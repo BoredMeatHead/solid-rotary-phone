@@ -4,7 +4,7 @@
 
 N = 11 #numer w dzienniku
 
-math = 2**N+1 # A
+math = 2*N+1 # A
 
 binary = (bin(math))
 print (math)
